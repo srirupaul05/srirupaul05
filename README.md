@@ -62,11 +62,6 @@ Machine learning project for prediction and analysis.
 
 ---
 
-## ⚡ Fun Fact
-
-> “Consistency beats motivation.”
-
----
 
 <p align="center">
   ⭐ From <a href="https://github.com/YOUR_USERNAME">Srirup</a>
