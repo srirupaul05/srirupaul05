@@ -10,7 +10,7 @@
 
 🎓 1st Year B.Tech CSE (AI & ML) Student  
 💻 Currently learning Python, AI, Web Development & DSA  
-🧠 Interested in AI tools, automation, startups & content creation  
+🧠 Interested in AI tools, automation, startups, artificial intelligence, machine learning, web development
 ⚡ Goal: Become a skilled developer and build impactful projects
 
 ---
@@ -79,5 +79,5 @@ Machine learning project for prediction and analysis.
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a>
+  ⭐ From <a href="https://github.com/YOUR_USERNAME">Srirup</a>
 </p>
