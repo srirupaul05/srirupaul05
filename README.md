@@ -1,6 +1,8 @@
 # Hey there 👋 I'm Srirup
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Londrina+Shadow&size=25&duration=3987&pause=800&color=EEF71A&background=3398FF00&center=true&width=435&lines=B.TECH+CSE+AIML;Interested+in+Web+Development+and+Scopes+of+Artificial+Intelligence;Sometime+Build+Websites+for+Fun;Vibe+Coding+and+Raw+Coding" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Stack-Sans-Notch&size=25&duration=3987&pause=800&color=EEF71A&center=true&width=700&lines=B.Tech+CSE+AI%2FML+Student;Interested+in+Web+Development+%26+Artificial+Intelligence;Sometimes+Build+Websites+for+Fun;Vibe+Coding+%26+Raw+Coding" alt="Typing SVG" />
+</a>
 
 ---
 
