@@ -9,7 +9,8 @@
 🎓 1st Year B.Tech CSE (AI & ML) Student  
 💻 Currently learning Python, AI, Web Development & DSA  
 🧠 Interested in AI tools, automation, startups, artificial intelligence, machine learning, web development
-⚡ Goal: Become a skilled developer and build impactful projects
+
+🎲 GOAL: Become a skilled developer and build impactful projects and BE RICH
 
 ---
 
